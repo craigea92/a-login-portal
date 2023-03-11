@@ -1,4 +1,4 @@
-# a-login-portal
+# A Login Portal
 
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
@@ -13,6 +13,9 @@ git clone https://github.com/craigea92/a-login-portal.git
 npm install
 npm start
 ```
+## Screenshot
+<img width="1349" alt="image" src="https://user-images.githubusercontent.com/82875984/224509377-7d325153-11ed-4bb6-8893-d4debdcd1ae0.png">
+
 ## What is The Single Responsibility Principle?
 
 As the name suggests, this principle states that each class should have one responsibility, one single purpose. This means that a class will do only one job, which leads us to conclude it should have only one reason to change.
