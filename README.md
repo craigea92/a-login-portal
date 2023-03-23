@@ -1,5 +1,12 @@
 # A Login Portal
 
+## Project Description
+For this project, my aim was to develop a straightforward login portal and store the user's status in an object. This objective proved to be quite effortless to accomplish.
+
+While executing this task, I encountered minimal difficulties, as I had a clear plan in mind and utilized the opportunity to enhance my React skills. The documentation proved to be valuable, as it always is.
+
+At present, I do not intend to incorporate any further features into this project. It stands completed for the time being.
+
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"/> </a>
